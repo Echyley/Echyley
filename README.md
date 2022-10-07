@@ -1,4 +1,4 @@
-Bem Vindo(a) ao meu Perfil 😁
+Bem vindo(a) ao meu perfil 😁
 
 <div>
   <a href="https://github.com/Echyley">
