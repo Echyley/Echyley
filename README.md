@@ -1,11 +1,10 @@
 Bem vindo(a) ao meu perfil 😁
-
 <div>
   <a href="https://github.com/Echyley"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Echyley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echyley&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
