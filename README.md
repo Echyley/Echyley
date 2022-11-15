@@ -7,7 +7,7 @@ Bem vindo(a) ao meu perfil 😁
   <img align="center" width="1000" height="180" src="https://github-readme-stats.vercel.app/api?username=Echyley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" width="1000" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echyley&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<div style="display: flex><br>
+<div style="justify-content: center"><br>
   <img alt="C" height="30" width="1000" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
   <img alt="JAVA" height="30" width="1000" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
   <img alt="Js" height="30" width="1000" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
