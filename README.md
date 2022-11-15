@@ -8,7 +8,7 @@ Bem vindo(a) ao meu perfil 😁
   <img align="center" width="450" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echyley&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
-  <br><br><br><br>
+  <br><br>
   
 <div>
   <img align="center" alt="C" height="30" width="50" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
