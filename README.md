@@ -8,11 +8,11 @@ Bem vindo(a) ao meu perfil 😁
   <img align="center" width="1000" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echyley&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="justify-content: center"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align-self="center" alt="C" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
+  <img align-self="center" alt="JAVA" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
+  <img align-self="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align-self="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align-self="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
  <br>
