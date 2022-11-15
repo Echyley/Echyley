@@ -4,11 +4,11 @@ Bem vindo(a) ao meu perfil 😁
 
 <div>
   <a href="https://github.com/Echyley"> 
-  <img align="center" width="450" height="180" src="https://github-readme-stats.vercel.app/api?username=Echyley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" width="450" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echyley&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Echyley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echyley&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
-  <br><br>
+  <br>
   
 <div>
   <img align="center" alt="C" height="30" width="50" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
@@ -18,7 +18,7 @@ Bem vindo(a) ao meu perfil 😁
   <img align="center" alt="CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- <br><br><br><br>
+ <br><br><br>
  
 <div> 
   <a href="https://www.instagram.com/_echysan_/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
