@@ -1,14 +1,14 @@
 Welcome to my profile 😁
 <br>
 
-<div>
+<div id="status">
   <a href="https://github.com/Echyley">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echyley&layout=compact&langs_count=6&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Echyley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   <br>
   
-<div>
+<div id="languages">
   <img align="center" alt="C" height="30" width="50" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
   <img align="center" alt="JAVA" height="30" width="50" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
   <img align="center" alt="Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,7 @@ Welcome to my profile 😁
 </div>
  <br>
  
-<div> 
+<div id="socials"> 
   <a href="https://www.instagram.com/_echysan_/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://discord.gg/Eh54976HPd" target="_blank" rel="external"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://www.linkedin.com/in/amanda-rodrigues-da-silva-77a489234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -26,10 +26,11 @@ Welcome to my profile 😁
   
   ![Snake animation](https://github.com/Echyley/Echyley/blob/output/github-contribution-grid-snake.svg)
 </div>
-  <br>
   
-  <div align="right" style="display: inline_block"><br>
+  <div id="visitorCount" align="right" style="display: inline_block">
     
   ![](https://komarev.com/ghpvc/?username=Echyley&color=blue&style=for-the-badge&label=Visitor+count)
     
   <div style="display: inline_block">
+  
+  
