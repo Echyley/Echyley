@@ -19,7 +19,6 @@ Welcome to my profile 😁
 </div>
 
  <br>
-  ![](https://komarev.com/ghpvc/?username=Echyley&color=green&style=for-the-badge&label=Visitor+count)
  <br>
  
 <div> 
