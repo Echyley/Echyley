@@ -19,6 +19,11 @@ Welcome to my profile 😁
 </div>
 
  <br>
+  <div style="display: inline_block"><br>
+
+  ![](https://komarev.com/ghpvc/?username=Echyley&color=blue&style=for-the-badge&label=Visitor+count)
+
+  <div style="display: inline_block">
  <br>
  
 <div> 
