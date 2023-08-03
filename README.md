@@ -24,8 +24,6 @@ Welcome to my profile 😁
   <a href = "mailto:amandaxars@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p>Porfolio (not finished!): <a href="https://portfolio-two-xi-81.vercel.app" target="-black" rel="external">https://portfolio-two-xi-81.vercel.app</a></p>
   <br>
-  
-  ![Snake animation](https://github.com/Echyley/Echyley/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   <div id="visitorCount" align="right" style="display: inline_block">
